@@ -1,4 +1,8 @@
-**Read in other languages: [Русский](README.md), [Polska](README.pl.md).**
+# Виджет отзывов - Feedback
+
+Основан на задании
+[ДЗ-2](https://github.com/goitacademy/react-homework/blob/master/homework-02/feedback/README.md),
+но переделан на хуки.
 
 # React homework template
 
